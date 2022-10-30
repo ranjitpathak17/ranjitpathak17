@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ranjitpathak17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ranjitpathak17/ranjitpathak17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div align="center">
+  <h1 >:chart_with_upwards_trend: GitHub Stats:</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjitpathak17&show_icons=true&layout=compact"/>
+  </div>
